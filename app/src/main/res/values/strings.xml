@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio Final</string>
+    <string name="input_one">Inngrese el primer Texto</string>
+    <string name="input_two">Ingrese el segundo Texto</string>
+    <string name="button">Comparar</string>
+    <string name="view_result">Resultado de la comparación</string>
+</resources>
